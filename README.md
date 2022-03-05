@@ -8,4 +8,4 @@ This is an example for single level dropdown. If a user moves the cursor over 'N
 
 ![multi_level_drop_down](https://user-images.githubusercontent.com/58632626/152146822-a7b16f50-7f45-41fb-9d31-d587d23a3481.png)
 
-This is an example for multi level dropdown. Total it contains three dropdown levels. When a user clicks on 'Home' tab, a dropdown list appears. This list contains 4 options. 
+This is an example for multi level dropdown. In total it contains three dropdown levels. When a user clicks on 'Dropdown' tab, the third option in the given list, a dropdown list appears beside the first dropdown list. This list contains 4 options. The first two options have no sub-options but the third option leads to a list of sub-options by opening a dropdown list beside the second list. This third dropdown list has two options. If the cursor is moved away from the dropdown, it disappears.
