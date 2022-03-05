@@ -1,4 +1,4 @@
-# Dropdowns
+# Dropdowns:
 
 As you can see there are two dropdowns; one is single level dropdown and another is multi level dropdown. These dropdowns are implemented using HTML5 and Vanilla JavaScript. No jQuery is used.
 
